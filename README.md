@@ -1,5 +1,5 @@
 # CapitalSearch
-This project using third party rest api's to lookup the capital city using input name or code and also some unit test written for those positivie and neagtive test cases .
+This project using third party rest api's to lookup the capital city using input name or code and also some unit test written for those positivie and negative test cases.
 
 ## prerequisites
 - git
